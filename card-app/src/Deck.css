@@ -1,0 +1,22 @@
+*{
+    background-color: green;
+}
+
+.deck {
+    text-align: center;
+}
+
+.button{
+    background-color: white;
+    margin-top: 10mm;
+}
+
+.button:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+.cardArea {
+    
+}
